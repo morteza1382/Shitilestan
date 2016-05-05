@@ -220,6 +220,7 @@ function create_config( )
     "set",
     "get",
     "broadcast",
+    sudo_user = {106712898},--Sudo users
     "download_media",
     "invite",
     "all",
